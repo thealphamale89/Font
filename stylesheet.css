@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'MrsEavesSmallCaps';
-    src: url('MrsEavesSmallCaps.woff2') format('woff2'),
-        url('MrsEavesSmallCaps.woff') format('woff');
+    src: url('https://rawcdn.githack.com/thealphamale89/Font/027175272ed5e3c72bdd321d2f2bedb327839612/MrsEavesSmallCaps.woff2') format('woff2'),
+        url('https://rawcdn.githack.com/thealphamale89/Font/027175272ed5e3c72bdd321d2f2bedb327839612/MrsEavesSmallCaps.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
